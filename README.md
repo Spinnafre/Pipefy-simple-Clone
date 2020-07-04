@@ -1,7 +1,7 @@
-# MY CALCULATOR
+# Pipefy Clone
 
 <h1 align="center">
-  <img  src="https://github.com/Spinnafre/Pipefy-simple-Clone/blob/master/pipefy.gif" alt="gif do app" width=60% height=60%>
+  <img  src="https://github.com/Spinnafre/Pipefy-simple-Clone/blob/master/pipefy.gif" alt="gif do app" width=80% height=80%>
 </h1>
 
 
@@ -11,23 +11,25 @@
 Esse projeto foi desenvolvido com:
 
 - [React](https://reactjs.org)
+- [Node](- [React](https://reactjs.org))
+- [Styled-components](https://styled-components.com/)
+
 
 
 ## 💻 Projeto
 ### :mahjong: Funcionalidades
 
-1. Divisão
-2. Somatório
-3. Subtração
-4. Igualdade
-5. Multiplicação
-6. Limpar a tela
+1. Mover item entre colunas
+2. Mover item entre mesma coluna
+3. Editar objetivos
+4. Criar objetivos pelo o Node e mostrar na interface web
 
 
 
 
-### :dart: Objetivo
-Com base nos estudos sobre as funcionalidades do Reacte, resolvi criar uma aplicação baseada na calculadora do MAC, simples e minimalista porém adicionei animação do título da calculadora enquando a aplicação está rodando, pois também estava treinando animações com CSS. 
+
+### :dart: Sobre
+Com essa aplicação consegui trabalhar bastaste o DndProvider do React para fazer o drag and drop, imitando de forma bem simplificada a principal funcionalidad o [Pipefy](https://www.pipefy.com/). Além disso, trabalhei bastante styled-components no desenvolvimento do visual da aplicação web, gostei bastante da ferramenta. 
 
 
 
