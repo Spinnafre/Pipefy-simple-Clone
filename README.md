@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com:
 1. Mover item entre colunas
 2. Mover item entre mesma coluna
 3. Editar objetivos
-4. Criar objetivos pelo o Node e mostrar na interface web
+4. Criar objetivos pelo o Node e mostrá-los na interface web
 
 
 
