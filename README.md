@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com:
 
 
 ### :dart: Sobre
-Com essa aplicação consegui trabalhar bastaste o DndProvider do React para fazer o drag and drop, imitando de forma bem simplificada a principal funcionalidad o [Pipefy](https://www.pipefy.com/). Além disso, trabalhei bastante styled-components no desenvolvimento do visual da aplicação web, gostei bastante da ferramenta. 
+Com essa aplicação consegui trabalhar bastaste o [DndProvider](https://react-dnd.github.io/react-dnd/docs/api/dnd-provider) do React para fazer o drag and drop, imitando de forma bem simplificada a principal funcionalidad o [Pipefy](https://www.pipefy.com/). Além disso, trabalhei bastante styled-components no desenvolvimento do visual da aplicação web, gostei bastante da ferramenta. 
 
 
 
