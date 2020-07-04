@@ -11,7 +11,7 @@
 Esse projeto foi desenvolvido com:
 
 - [React](https://reactjs.org)
-- [Node](- [React](https://reactjs.org))
+- [Node](https://nodejs.org/en/)
 - [Styled-components](https://styled-components.com/)
 
 
